@@ -11,7 +11,7 @@ public class Arena {
 		monte.position = 0;
 		krippler = new LeggedRobot();
 		krippler.speed = 10;
-		krippler.power = 500;
+		krippler.power = 200;
 		krippler.position = 40;
 	}
 	
